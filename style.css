@@ -1,8 +1,15 @@
 body {
-    background-color: #332a7b;
+    background-color: #3e5c5a;
+    font-family: Helvetica;
 }
 
 h1 {
+    color: #d6d996;
+    text-align: center;
+    font-weight: bold
+}
+
+p {
     color: white;
     text-align: center;
 }
